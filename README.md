@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://komarev.com/ghpvc/?username=Mohsin-Ul-Islam" alt="Mohsin" />
+<img src="https://ghpvc.mohsin.ninja/Mohsin-Ul-Islam" alt="Mohsin" />
 
 I am **Mohsin**, a **Software Engineer**. Here is some information about me:
 
